@@ -26,10 +26,14 @@ Port SXCheats(Edizon) code.
 Because it's easy to use and can make your modding life more fulfilling.
 # Features
 -Easy-to-understand GUI app.
+
 -Convert pchtxt to SXCheats(Edizon) codes.
+
 -Generate cheat code from search values.
+
 -Port SXCheats(Edizon) code.
--Generate OffCode. (RealTime on-off)
+
+-Generate OffCode. (RealTime on-off).
 -Save to file.
 -Copy to clipboard.
 -GameName write.
