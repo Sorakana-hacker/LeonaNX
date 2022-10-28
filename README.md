@@ -7,6 +7,9 @@ Useful tool about cheat codes for Switch.
 3. Don't modify without permission.
 4. Besides, don't violate the law.
 # How to use?
+1. Download [nsnsotool](https://github.com/0CBH0/nsnsotool/releases/tag/v1.0a).
+2. Downlord [findbytes.py](https://gist.github.com/3096/ffd6d257f148aab0b74bfc50dfe43e80).
+3. Place them in the same directory as LeonaNX.
 ## Converter
 Convert pchtxt for Edizon.
 1. Set Code or Pchtxt.
