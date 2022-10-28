@@ -7,17 +7,17 @@ Useful tool about cheat codes for Switch.
 3. Don't modify without permission.
 4. Besides, don't violate the law.
 # How to use?
-## □Converter
+## Converter
 Convert pchtxt for Edizon.
 1. Set Code or Pchtxt.
 2. Enter the required items.
 3. Convert!
-## 〇CodeBuilder
+## CodeBuilder
 Generate cheat code from search values.
 1. Set Address and Values.
 2. Enter the required items.
 3. Generate!
-## △Port
+## Port
 Port SXCheats(Edizon) code.
 1. Set old code.
 2. Enter the required items.
