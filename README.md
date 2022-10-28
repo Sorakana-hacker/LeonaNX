@@ -6,25 +6,25 @@ Useful tool about cheat codes for Switch.
 2. Don't use it badly.
 3. Don't modify without permission.
 4. Besides, don't violate the law.
-#How to use?
-##□Converter
+# How to use?
+## □Converter
 Convert pchtxt for Edizon.
 1. Set Code or Pchtxt.
 2. Enter the required items.
 3. Convert!
-##〇CodeBuilder
+## 〇CodeBuilder
 Generate cheat code from search values.
 1. Set Address and Values.
 2. Enter the required items.
 3. Generate!
-##△Port
+## △Port
 Port SXCheats(Edizon) code.
 1. Set old code.
 2. Enter the required items.
 3. Port!
-#Why should I use this?
+# Why should I use this?
 Because it's easy to use and can make your modding life more fulfilling.
-#Features
+# Features
 ・Easy-to-understand GUI app.
 ・Convert pchtxt to SXCheats(Edizon) codes.
 ・Generate cheat code from search values.
@@ -35,7 +35,7 @@ Because it's easy to use and can make your modding life more fulfilling.
 ・GameName write.
 ・CheatName write.
 ・GameVer write.
-#Support
+# Support
 ・Sorakana#8466.
 ・[My Server](https://discord.gg/DQB6fcD6qq)
 
