@@ -1,7 +1,7 @@
 [日本語](READMEjp.md) | [English](README.md)
 # LeonaNX
 Useful tool about cheat codes for Switch.
-#Rules
+# Rules
 1. Don't distribute secondary.
 2. Don't use it badly.
 3. Don't modify without permission.
