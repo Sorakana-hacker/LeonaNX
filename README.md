@@ -46,7 +46,9 @@ Because it's easy to use and can make your modding life more fulfilling.
 -GameVer write.
 # Credit
 LeonaNX by Sorakana.
+
 Offcode by Takaharu.
+
 SpecialThanks : Takaharu, Yajii2.
 # Support
 -Sorakana#8466
