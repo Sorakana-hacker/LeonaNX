@@ -25,18 +25,18 @@ Port SXCheats(Edizon) code.
 # Why should I use this?
 Because it's easy to use and can make your modding life more fulfilling.
 # Features
-・Easy-to-understand GUI app.
-・Convert pchtxt to SXCheats(Edizon) codes.
-・Generate cheat code from search values.
-・Port SXCheats(Edizon) code.
-・Generate OffCode. (RealTime on-off)
-・Save to file.
-・Copy to clipboard.
-・GameName write.
-・CheatName write.
-・GameVer write.
+-Easy-to-understand GUI app.
+-Convert pchtxt to SXCheats(Edizon) codes.
+-Generate cheat code from search values.
+-Port SXCheats(Edizon) code.
+-Generate OffCode. (RealTime on-off)
+-Save to file.
+-Copy to clipboard.
+-GameName write.
+-CheatName write.
+-GameVer write.
 # Support
-・Sorakana#8466.
-・[My Server](https://discord.gg/DQB6fcD6qq)
+-Sorakana#8466
+-[My Server](https://discord.gg/DQB6fcD6qq)
 
 2022/10/28 By Sorakana
