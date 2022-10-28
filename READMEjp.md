@@ -1,5 +1,5 @@
 [日本語](READMEjp.md) | [English](README.md)
-#LeonaNX
+# LeonaNX
 Switchのチートコードに関する便利なツール。
 # 利用規約
 1. 二次配布しないでください。
@@ -23,7 +23,7 @@ SXCheats(Edizon) コードを移植します。
 3. 移植！
 # なぜこれを使うべきなのか?
 使いやすく、改造ライフをより充実させることができるからです。
-＃ 特徴
+# 特徴
 -わかりやすいGUIアプリ。
 
 -pchtxt をSXCheats(Edizon)コードに変換。
@@ -43,6 +43,12 @@ SXCheats(Edizon) コードを移植します。
 -チート名書き込み。
 
 ・ゲームver書き込み。
+# クレジット
+LeonaNX : Sorakana
+
+offcode : たかはる様
+
+感謝してる人 : たかはる様, Yajii2様
 # サポート
 -Sorakana#8466
 
