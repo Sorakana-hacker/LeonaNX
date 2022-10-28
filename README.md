@@ -33,14 +33,20 @@ Because it's easy to use and can make your modding life more fulfilling.
 
 -Port SXCheats(Edizon) code.
 
--Generate OffCode. (RealTime on-off).
+-Generate OffCode. (RealTime on-off)
+
 -Save to file.
+
 -Copy to clipboard.
+
 -GameName write.
+
 -CheatName write.
+
 -GameVer write.
 # Support
 -Sorakana#8466
+
 -[My Server](https://discord.gg/DQB6fcD6qq)
 
 2022/10/28 By Sorakana
