@@ -6,6 +6,9 @@ Switchのチートコードに関する便利なツール。
 2. 悪用しないで下さい。
 3. 無断で改変しないでください。
 # 使い方
+1. [nsnsotool](https://github.com/0CBH0/nsnsotool/releases/tag/v1.0a)をダウンロードします。
+2. [findbytes.py](https://gist.github.com/3096/ffd6d257f148aab0b74bfc50dfe43e80)をダウンロードします。
+3. それらをLeonaNX と同じディレクトリに配置します。
 ## 変換
 Edizon用にpchtxt を変換します。
 1. Code または Pchtxt を設定します。
